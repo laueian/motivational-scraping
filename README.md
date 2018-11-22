@@ -1,6 +1,8 @@
 # motivational-scraping
 Web scraper for lift-me project
 
+Code is found in this path (file) *motivational-scraping\depends\Lib\site-packages\lambda_function.py* 
+
 # Why it was built
 We needed data for our project so this targets a website that virtually gives us unlimited data.
 
